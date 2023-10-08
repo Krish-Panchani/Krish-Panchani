@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 💬 Ask me about **Google Cloud, React & PHP**
+- 💬 Ask me about **Google Cloud, React, Tailwind & PHP**
 
 - 📫 How to reach me **krishpanchai1346@gmail.com**
 
