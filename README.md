@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Google Cloud, React, Tailwind & PHP**
 
-- 📫 How to reach me **krishpanchai1346@gmail.com**
+- 📫 How to reach me **krishpanchani1346@gmail.com**
 
 - ⚡ Fun fact **Completed 320+ Labs & Earned 30+ on Google Cloud Skill Boost Platform.**
 
