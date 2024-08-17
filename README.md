@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish-panchani" alt="krish-panchani" /></a> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **Everything 😅**
 
 - 💬 Ask me about **Google Cloud, React, Tailwind & PHP**
 
